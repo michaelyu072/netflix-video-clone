@@ -35,7 +35,7 @@ function Controls(props) {
   }
 
   function hideSpeedMenu() {
-    // setSpeedMenu(false);
+    setSpeedMenu(false);
   }
 
   function showVolumeMenu() {
