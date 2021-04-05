@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2d3e91adf06db8bc8195c406666357a",
+    "revision": "8830c9f340649d826d4fa762c62bd1cd",
     "url": "/netflix-video-clone/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netflix-video-clone/static/js/2.b6672955.chunk.js"
   },
   {
-    "revision": "0d1b736c859c91180241",
-    "url": "/netflix-video-clone/static/js/main.63f6b258.chunk.js"
+    "revision": "4e88619ef4f0d8d8efa0",
+    "url": "/netflix-video-clone/static/js/main.46a54d9d.chunk.js"
   },
   {
     "revision": "87815a89c9061342bd24",

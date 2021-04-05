@@ -134,7 +134,9 @@ body {
 
 
 
-.video-container  .controls button .icon {
+.video-container  .controls button .icon, 
+.video-container  .controls button .forward-icon, 
+.video-container  .controls button .backward-icon {
   fill: white;
   width: 4vw;
   height: 4vw;
@@ -145,11 +147,23 @@ body {
 
 }
 
+.video-container  .controls button .forward-icon:active {
+  transition: all .3s;
+  transform: rotate(30deg);
+
+}
+
+.video-container  .controls button .backward-icon:active {
+  transition: all .3s;
+  transform: rotate(-30deg);
+}
+
+
+
 .video-container .controls button:hover {
   opacity: .9;
   transform: scale(1.2);
-
-
+  
 }
 
 .video-container .progress-controls {

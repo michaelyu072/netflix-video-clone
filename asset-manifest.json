@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/netflix-video-clone/static/js/main.63f6b258.chunk.js",
-    "main.js.map": "/netflix-video-clone/static/js/main.63f6b258.chunk.js.map",
+    "main.js": "/netflix-video-clone/static/js/main.46a54d9d.chunk.js",
+    "main.js.map": "/netflix-video-clone/static/js/main.46a54d9d.chunk.js.map",
     "runtime-main.js": "/netflix-video-clone/static/js/runtime-main.184c4599.js",
     "runtime-main.js.map": "/netflix-video-clone/static/js/runtime-main.184c4599.js.map",
     "static/js/2.b6672955.chunk.js": "/netflix-video-clone/static/js/2.b6672955.chunk.js",
     "static/js/2.b6672955.chunk.js.map": "/netflix-video-clone/static/js/2.b6672955.chunk.js.map",
     "index.html": "/netflix-video-clone/index.html",
-    "precache-manifest.bec1ce23257b5556fac634f242f66201.js": "/netflix-video-clone/precache-manifest.bec1ce23257b5556fac634f242f66201.js",
+    "precache-manifest.20af7e30ca68b694e147aa15b5a3e5b0.js": "/netflix-video-clone/precache-manifest.20af7e30ca68b694e147aa15b5a3e5b0.js",
     "service-worker.js": "/netflix-video-clone/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.184c4599.js",
     "static/js/2.b6672955.chunk.js",
-    "static/js/main.63f6b258.chunk.js"
+    "static/js/main.46a54d9d.chunk.js"
   ]
 }
